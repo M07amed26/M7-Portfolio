@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 alert("Please enter a valid email.");
             } else {
                 // Open email client
-                const yourEmail = "mohamedbellabed47@gmail.com";
+                const yourEmail = "m7.contact.us@gmail.com";
                 const subject = `New message from ${name} (via M7 Portfolio)`;
                 const body = `You received a new message from your portfolio website.\n\nName: ${name}\nEmail: ${email}\nMessage:\n${message}\n\n---\nThis email was drafted via your portfolio contact form.`;
                 
