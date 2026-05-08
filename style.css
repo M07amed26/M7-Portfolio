@@ -226,6 +226,27 @@ html {
     scroll-padding-top: 50px;
 }
 
+footer {
+    background: #111;
+    text-align: center;
+    padding: 35px 20px;
+    border-top: 1px solid #222;
+}
+
+footer h3 {
+    color: #e50914;
+    margin-bottom: 10px;
+}
+
+footer p {
+    color: #b3b3b3;
+    margin: 5px 0;
+}
+
+.creator {
+    color: white;
+}
+
 /*--------------------------------------------------------*/
 /*--------------------------------------------------------*/
 /* Phone version */
